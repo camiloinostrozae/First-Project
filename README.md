@@ -1,2 +1,2 @@
-# First-Project
-This is a test project
+# First-Repository
+This is a test repository
